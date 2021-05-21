@@ -1,4 +1,4 @@
-module github.com/Luzifer/go-openssl/v4
+module github.com/VIBHOR94/go-openssl/v4
 
 go 1.15
 

@@ -1,5 +1,5 @@
 module github.com/Luzifer/go-openssl/v4
 
-go 1.14
+go 1.15
 
-require golang.org/x/crypto v0.0.0-20200604202706-70a84ac30bf9
+require golang.org/x/crypto v0.0.0-20210513164829-c07d793c2f9a
